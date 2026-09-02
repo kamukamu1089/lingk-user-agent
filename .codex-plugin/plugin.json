@@ -1,0 +1,27 @@
+{
+  "name": "lingk-user-agent",
+  "version": "0.1.0",
+  "description": "Guide agents through safe local setup, execution, and output inspection for test_lingk.",
+  "author": {
+    "name": "lingk-user-agent contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "lingk",
+    "gyrokinetics",
+    "simulation",
+    "fortran"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "lingk User Agent",
+    "shortDescription": "Run and inspect local test_lingk cases safely.",
+    "longDescription": "Adds reusable guidance for configuring, building, running, and inspecting local test_lingk simulations while preserving existing inputs and results.",
+    "developerName": "lingk-user-agent contributors",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": "Help me configure and run a local test_lingk case safely."
+  }
+}
