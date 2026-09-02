@@ -1,0 +1,14 @@
+{
+  "name": "lingk-user-agent-marketplace",
+  "description": "Local marketplace for the lingk-user-agent plugin (test_lingk workflow guidance).",
+  "owner": {
+    "name": "lingk-user-agent contributors"
+  },
+  "plugins": [
+    {
+      "name": "lingk-user-agent",
+      "source": "./",
+      "description": "Guide agents through safe local setup, execution, and output inspection for test_lingk."
+    }
+  ]
+}
