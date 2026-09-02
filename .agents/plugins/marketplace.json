@@ -1,0 +1,20 @@
+{
+  "name": "lingk-user-agent-marketplace",
+  "interface": {
+    "displayName": "lingk User Agent"
+  },
+  "plugins": [
+    {
+      "name": "lingk-user-agent",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

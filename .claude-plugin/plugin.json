@@ -1,0 +1,15 @@
+{
+  "name": "lingk-user-agent",
+  "version": "0.1.0",
+  "description": "Guide agents through safe local setup, execution, and output inspection for test_lingk.",
+  "author": {
+    "name": "lingk-user-agent contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "lingk",
+    "gyrokinetics",
+    "simulation",
+    "fortran"
+  ]
+}
